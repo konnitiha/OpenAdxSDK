@@ -13,14 +13,14 @@ spec.platform     = :ios, '12.0'
 spec.ios.deployment_target = '12.0'
 spec.requires_arc = true
 spec.frameworks = ["Foundation", "UIKit", "MobileCoreServices", "CoreGraphics", "Security", "SystemConfiguration", "CoreTelephony", "AdSupport", "StoreKit", "AVFoundation", "MediaPlayer", "CoreMedia", "WebKit", "Accelerate", "CoreLocation", "AVKit", "CoreMotion"]
-spec.source_files = "OpenAdxSDK/**/*"
-spec.resources = ['OpenAdxSDK/OpenAdxSDK.bundle']
-spec.user_target_xcconfig =   {'OTHER_LDFLAGS' => ['-lObjC']}
+spec.source_files = "OpenAdxSDK/OpenAdx.framework/Headers/*.{h,m}"
+spec.resources = ['OpenAdxSDK/OpenAdx.bundle']
+spec.user_target_xcconfig =   {'OTHER_LDFLAGS' => ['-lObjC'], 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'}
 spec.libraries = ["z", "resolv.9", "sqlite3", "c++", "c++abi", "resolv"]
 valid_archs = ['x86_64', 'arm64']
 spec.pod_target_xcconfig = { 'VALID_ARCHS' => 'x86_64 arm64' }
-#spec.default_subspecs = 'OpenAdxSDK'
-#spec.ios.vendored_frameworks = 'OpenAdxSDK/OpenAdx.framework'
+spec.ios.vendored_frameworks = 'OpenAdxSDK/OpenAdx.framework'
 spec.dependency 'Protobuf'
+#spec.default_subspecs = 'OpenAdxSDK'
 
 end
