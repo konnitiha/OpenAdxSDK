@@ -35,7 +35,7 @@ typedef NS_ENUM(NSInteger,OpenAdxLogLevel) {
 /// - Parameter appID: appid
 + (void)initWithAppID:(NSString *)appID;
 
-/// 设置Debug模式
+/// 设置Debug模式,会改变 loglevel 级别,测试用,上线时一定改为 YES
 /// - Parameter isDebug:  默认为 NO
 + (void)setDebugMode:(BOOL)isDebug;
 

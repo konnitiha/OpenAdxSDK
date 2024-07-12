@@ -54,7 +54,7 @@
 		</data>
 		<key>Headers/OpenAdxSdkConfig.h</key>
 		<data>
-		PWAMn4glUMcut5i0BWgJPGlo1HA=
+		uoPjVwB2KwwBymRIyXz8yQwvMrk=
 		</data>
 		<key>Headers/OpenAdxSplash.h</key>
 		<data>
@@ -62,11 +62,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		oxdpqlEMS0EVQFLWOgtHrGA+dNA=
-		</data>
-		<key>url.txt</key>
-		<data>
-		UtloKvis5aZL/xH5XE6NguVlUnA=
+		jg7gjEBXYa1Kx5jc4QW3AaPHTrs=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -207,11 +203,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PWAMn4glUMcut5i0BWgJPGlo1HA=
+			uoPjVwB2KwwBymRIyXz8yQwvMrk=
 			</data>
 			<key>hash2</key>
 			<data>
-			oE6sLdnW36pemZ1nQ4l13Z/TgROM1h1xOrOCCgCTg/I=
+			Y6EnlDnvruhfDA2nVBS+2SGPqhEOYPEoenRmKvuU2cw=
 			</data>
 		</dict>
 		<key>Headers/OpenAdxSplash.h</key>
@@ -223,17 +219,6 @@
 			<key>hash2</key>
 			<data>
 			Gv5xoYGTa5/PfLg3APZWY7/m8UnAUCmeweI2qmrHgp4=
-			</data>
-		</dict>
-		<key>url.txt</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			UtloKvis5aZL/xH5XE6NguVlUnA=
-			</data>
-			<key>hash2</key>
-			<data>
-			X2F0A0nhXHm0IyqXvaRt2Rrdujow1gU4VAMbOgyg7Kc=
 			</data>
 		</dict>
 	</dict>
