@@ -50,6 +50,10 @@ NS_ASSUME_NONNULL_BEGIN
 /// 广告位 ID
 @property(copy,nonatomic,readonly)NSString *slotID;
 
+
+/// 底部视图,最大高度为屏幕高的 0.25
+@property(strong,nonatomic)UIView *bottomView;
+
 ///  初始化广告对象
 /// - Parameter slotID: 广告位 ID
 - (instancetype)initWithSlotID:(NSString *)slotID;
