@@ -40,7 +40,6 @@ NS_ASSUME_NONNULL_BEGIN
 /// 代理
 @property(weak,nonatomic)id <OpenAdxSplashDelegate>delegate;
 
-
 /// 倒计时秒数:默认 5s
 @property(assign,nonatomic)int countDownTime;
 

@@ -16,6 +16,7 @@ typedef enum : NSUInteger {
     OpenAdxErrorCode_REQUEST_EINTR = 40002,
     OpenAdxErrorCode_APPLY_ID_EMPTY = 40003,
     OpenAdxErrorCode_AD_DATA_EMPTY = 40006,
+    OpenAdxErrorCode_REQUEST_PARAM_ERROR = 40007,
 } OpenAdxErrorCode;
 
 NS_ASSUME_NONNULL_BEGIN

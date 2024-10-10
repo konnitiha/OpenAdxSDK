@@ -9,12 +9,12 @@
 #import <UIKit/UIKit.h>
 #import "OpenAdxError.h"
 #import "OpenAdxEventsRepoter.h"
-
-@class OpenAdxResultData;
+#import "OpenAdxResponseModel.h"
+#import "OpenAdxAdProtocol.h"
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface OpenAdxBaseAd : NSObject
+@interface OpenAdxBaseAd : NSObject<OpenAdxAdProtocol>
 
 
 /// 超时时间 单位 :s, 默认: 3s
@@ -33,7 +33,7 @@ NS_ASSUME_NONNULL_BEGIN
 /// - Parameters:
 ///   - eventsType: 事件类型
 ///   - adData: 广告数据
-- (void)reportEvents:(OpenAdxEventsType)eventsType adData:(OpenAdxResultData *)adData;
+- (void)reportEvents:(OpenAdxEventsType)eventsType adData:(OpenAdxResponseBid *)adData;
 
 /// 销毁广告
 - (void)destoryAd;
