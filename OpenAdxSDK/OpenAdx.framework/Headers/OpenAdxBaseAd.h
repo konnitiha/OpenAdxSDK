@@ -9,9 +9,9 @@
 #import <UIKit/UIKit.h>
 #import "OpenAdxError.h"
 #import "OpenAdxEventsRepoter.h"
-#import "OpenAdxResponseModel.h"
 #import "OpenAdxAdProtocol.h"
 
+@class OpenAdxResponseBid;
 NS_ASSUME_NONNULL_BEGIN
 
 @interface OpenAdxBaseAd : NSObject<OpenAdxAdProtocol>
