@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
 spec.name         = "OpenAdx"
-spec.version      = "1.1.1"
+spec.version      = "2.0.0"
 spec.summary      = "OpenAdx广告平台"
 spec.description  = <<-DESC
 OpenAdx,广告SDK,自有直客广告主
@@ -20,7 +20,5 @@ spec.libraries = ["z", "resolv.9", "sqlite3", "c++", "c++abi", "resolv"]
 valid_archs = ['x86_64', 'arm64']
 spec.pod_target_xcconfig = { 'VALID_ARCHS' => 'x86_64 arm64' }
 spec.ios.vendored_frameworks = 'OpenAdxSDK/OpenAdx.framework'
-spec.dependency 'Protobuf'
-#spec.default_subspecs = 'OpenAdxSDK'
-#'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
+#spec.dependency 'Protobuf'
 end

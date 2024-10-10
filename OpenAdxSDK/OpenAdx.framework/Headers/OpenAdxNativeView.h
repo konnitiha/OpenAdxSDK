@@ -6,7 +6,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "OpenAdxResultData.h"
+#import "OpenAdxRequestModel.h"
 
 NS_ASSUME_NONNULL_BEGIN
 

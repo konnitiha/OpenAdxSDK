@@ -14,15 +14,15 @@
 		</data>
 		<key>Headers/OpenAdxBaseAd.h</key>
 		<data>
-		JpAj2H/KHI1+cEgqEjj4vwFUAVE=
+		iPsKFuCU1PHmaDKEnvuKtIbA7Lw=
 		</data>
 		<key>Headers/OpenAdxError.h</key>
 		<data>
-		OwvQMiCnnLMyv26tt8vNHNZpPr4=
+		KQ9ZMoTWH2wp68N6SrK4qmIcVp4=
 		</data>
 		<key>Headers/OpenAdxEventsRepoter.h</key>
 		<data>
-		44L0aGAV7vIytCxILswnTtd+dQE=
+		66BClSl63Bv3zXYD2D/K8Jqw//4=
 		</data>
 		<key>Headers/OpenAdxInterstitial.h</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Headers/OpenAdxMaterialMeta.h</key>
 		<data>
-		1qKbY82iorAJhjW64aJHFVzoK3w=
+		R8YVr/APzVC6hY2F02KDTHKfuPo=
 		</data>
 		<key>Headers/OpenAdxNativeAd.h</key>
 		<data>
@@ -42,11 +42,7 @@
 		</data>
 		<key>Headers/OpenAdxNativeView.h</key>
 		<data>
-		ZcWsdFIfUATkRIAsCJpEYWOtAMg=
-		</data>
-		<key>Headers/OpenAdxResultData.h</key>
-		<data>
-		/oKa6GmJxmqz4KCYmrZgNcD2oNs=
+		8mmIW6IqHXQIif2c570wmi2NRnI=
 		</data>
 		<key>Headers/OpenAdxRewardVideo.h</key>
 		<data>
@@ -54,15 +50,15 @@
 		</data>
 		<key>Headers/OpenAdxSdkConfig.h</key>
 		<data>
-		hDDBWt1Zu4CNba1c62lAfgsCkwA=
+		+IwsDF9MjatN3PKV7lFauZO5KoU=
 		</data>
 		<key>Headers/OpenAdxSplash.h</key>
 		<data>
-		KyEmT/0/FRp16vjB+jMLKfUXhhw=
+		huv9tHXwkE/pKVT8QM5SFOzcbs8=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Ye5b3BP/2dfi/9y/ZiD00cBJM4Y=
+		z6K03Vi2aCL+4pf8KIw16CJkI3Q=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -93,33 +89,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			JpAj2H/KHI1+cEgqEjj4vwFUAVE=
+			iPsKFuCU1PHmaDKEnvuKtIbA7Lw=
 			</data>
 			<key>hash2</key>
 			<data>
-			+r/bmxnYpstYbPzTdI2XHicHgbuU1yQbYBMtdvyU5wE=
+			oui1zRNCm4sA+uD84CixhCkptpNewKcZUZcOjwSPUyE=
 			</data>
 		</dict>
 		<key>Headers/OpenAdxError.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OwvQMiCnnLMyv26tt8vNHNZpPr4=
+			KQ9ZMoTWH2wp68N6SrK4qmIcVp4=
 			</data>
 			<key>hash2</key>
 			<data>
-			X7R2+njCpVTSqeOGimIJJ4EP0xyAqR7Ya3blJ4jKpKY=
+			v/7BCarHK/K+zLB/8mTimWY/6Sfvs/1UmZCUQF9BZ+k=
 			</data>
 		</dict>
 		<key>Headers/OpenAdxEventsRepoter.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			44L0aGAV7vIytCxILswnTtd+dQE=
+			66BClSl63Bv3zXYD2D/K8Jqw//4=
 			</data>
 			<key>hash2</key>
 			<data>
-			ocerJ8EBIRL5uahu9m4Vm9iW4uuOtm91McP8TrbV3t0=
+			QrE4+pNQ61/8yq5E87JWea5V3Oa40Am/0zgurPqU3R4=
 			</data>
 		</dict>
 		<key>Headers/OpenAdxInterstitial.h</key>
@@ -137,11 +133,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1qKbY82iorAJhjW64aJHFVzoK3w=
+			R8YVr/APzVC6hY2F02KDTHKfuPo=
 			</data>
 			<key>hash2</key>
 			<data>
-			BwDwVYBVv+kmGRPpRoS0Y7lcZaKyPdFuacaN4HSPXzs=
+			L3Nk38186ZL00Axlo/SCZe98t1nDwdfaJnsRii9HT3U=
 			</data>
 		</dict>
 		<key>Headers/OpenAdxNativeAd.h</key>
@@ -170,22 +166,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZcWsdFIfUATkRIAsCJpEYWOtAMg=
+			8mmIW6IqHXQIif2c570wmi2NRnI=
 			</data>
 			<key>hash2</key>
 			<data>
-			nWdR0Aehgqu8iyEY7ZM42fOOYt2st6PquuFRJcjJiII=
-			</data>
-		</dict>
-		<key>Headers/OpenAdxResultData.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			/oKa6GmJxmqz4KCYmrZgNcD2oNs=
-			</data>
-			<key>hash2</key>
-			<data>
-			uDY2cTckhdGqg9lc2wUytN0Bk45yfINZntJGnrVGorQ=
+			FzQkpLmtzyzOy40iVktE+V1cUwaB34iP6BTwFqZvhnA=
 			</data>
 		</dict>
 		<key>Headers/OpenAdxRewardVideo.h</key>
@@ -203,22 +188,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hDDBWt1Zu4CNba1c62lAfgsCkwA=
+			+IwsDF9MjatN3PKV7lFauZO5KoU=
 			</data>
 			<key>hash2</key>
 			<data>
-			Kuo9UUe674e+ThbqzuyeLTqgUzLjZvk70VgJm+J6rB0=
+			72Z0LNgfF3Y7Rz9gElZep1NyzHIsCmw5S2WwT1SdKRw=
 			</data>
 		</dict>
 		<key>Headers/OpenAdxSplash.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KyEmT/0/FRp16vjB+jMLKfUXhhw=
+			huv9tHXwkE/pKVT8QM5SFOzcbs8=
 			</data>
 			<key>hash2</key>
 			<data>
-			vCpiY47kC/m73IedNN6i6DV7zJShPgteNmGHDfavpGk=
+			sRtIdbSqOuViztdPjVH1yt9Gp/3AJV2DtX7PpHY+xz4=
 			</data>
 		</dict>
 	</dict>

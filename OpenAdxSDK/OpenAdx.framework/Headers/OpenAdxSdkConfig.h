@@ -23,6 +23,19 @@ typedef NS_ENUM(NSInteger,OpenAdxLogLevel) {
 
 @interface OpenAdxSdkConfig : NSObject
 
+/// optional 禁止IDFA：0-不禁止，1-禁止，默认为0。只适用于GDT。
+@property(nonatomic,strong)NSNumber *forbiddenIDFA;
+
+/// optional 禁止地理位置：0-不禁止，1-禁止，默认为0。
+@property(nonatomic,strong)NSNumber *forbiddenLocation;
+
+/// optional 禁止采集设备信息:0-不禁止，1-禁止，默认为0。
+@property(nonatomic,strong)NSNumber *forbiddenDeviceInfo;
+
+/// optional 禁止 IDFA情况下,用户传入自定义字符串,透传给三方广告平台
+@property(nonatomic,copy)NSString *customIDFA;
+
+/// 获取单例
 + (instancetype)shareInstance;
 
 /// SDK版本
