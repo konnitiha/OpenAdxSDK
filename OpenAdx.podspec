@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
 spec.name         = "OpenAdx"
-spec.version      = "2.0.1"
+spec.version      = "2.0.2"
 spec.summary      = "OpenAdx广告平台"
 spec.description  = <<-DESC
 OpenAdx,广告SDK,自有直客广告主

@@ -26,7 +26,7 @@
 		</data>
 		<key>Headers/OpenAdxEventsRepoter.h</key>
 		<data>
-		66BClSl63Bv3zXYD2D/K8Jqw//4=
+		VdFKtwr7e1tJL3psvyl5PQYs1es=
 		</data>
 		<key>Headers/OpenAdxInterstitial.h</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Headers/OpenAdxSdkConfig.h</key>
 		<data>
-		+IwsDF9MjatN3PKV7lFauZO5KoU=
+		lAhUjuzooD+ZsrOizPRvxJtu5e4=
 		</data>
 		<key>Headers/OpenAdxSplash.h</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		8STCMKBJMutF4sJzv7J4WyIel8Y=
+		yyzaSv3oo4xwXcH4wPf4ZPKasRM=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -126,11 +126,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			66BClSl63Bv3zXYD2D/K8Jqw//4=
+			VdFKtwr7e1tJL3psvyl5PQYs1es=
 			</data>
 			<key>hash2</key>
 			<data>
-			QrE4+pNQ61/8yq5E87JWea5V3Oa40Am/0zgurPqU3R4=
+			CrwD6fM/AZNmetfAAldjz6GiXD3cXl7rPvnfG6B3xqU=
 			</data>
 		</dict>
 		<key>Headers/OpenAdxInterstitial.h</key>
@@ -203,11 +203,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+IwsDF9MjatN3PKV7lFauZO5KoU=
+			lAhUjuzooD+ZsrOizPRvxJtu5e4=
 			</data>
 			<key>hash2</key>
 			<data>
-			72Z0LNgfF3Y7Rz9gElZep1NyzHIsCmw5S2WwT1SdKRw=
+			XCS86T6x1B+PnWAd+C4ftwaD4cIecLzRyw1b3QTd32g=
 			</data>
 		</dict>
 		<key>Headers/OpenAdxSplash.h</key>

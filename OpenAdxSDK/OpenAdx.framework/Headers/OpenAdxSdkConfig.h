@@ -35,6 +35,23 @@ typedef NS_ENUM(NSInteger,OpenAdxLogLevel) {
 /// optional 禁止 IDFA情况下,用户传入自定义字符串,透传给三方广告平台
 @property(nonatomic,copy)NSString *customIDFA;
 
+
+/// optional
+/*
+ 当前手机上的安装app列表,一个字符串数组
+ */
+@property(nonatomic,strong)NSArray<NSString *> *appList;
+
+/// optional
+/*
+ CAID 数组对象 数组元素为 dic 格式如下:
+ @[@{
+ @"caid":@"Caid id",
+ @"version":@"Caid version"
+ }];
+ */
+@property(nonatomic,strong)NSArray *CAIDList;
+
 /// 获取单例
 + (instancetype)shareInstance;
 

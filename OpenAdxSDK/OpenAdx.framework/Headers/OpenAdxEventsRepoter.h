@@ -95,6 +95,7 @@ typedef enum : NSUInteger {
     OpenAdxEventsType_HUICHUAN = 200,
     OpenAdxEventsType_Close = 300,
     OpenAdxEventsType_BidWin = 400,
+    OpenAdxEventsType_BidLoss = 401,
 } OpenAdxEventsType;
 
 
